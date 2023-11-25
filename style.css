@@ -1,0 +1,268 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Condensed&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Oswald&display=swap'); 
+
+
+    .two { 
+        width: 2173px; 
+        height: 1297px;
+    	border-radius: 70px;
+        background-image: url(./images/Background_12.030A2E-85.png);
+    }
+
+        .sidebar {
+        background-color: #0D0F1A;
+        border-radius: 70px 0px 0px 70px; 
+        opacity: 70%;
+        width: 384px;
+        height: 1297px;
+        float: left;
+        /* border: 3px solid red; */
+        font-size: 20px;
+    }
+
+            .YOURLOGO{
+                margin-left: 71px;
+                margin-top: 93px;
+                width: 137px;
+                height: 44px;
+            }
+
+            .Marker{
+                position: absolute;                
+                top: 200px;
+                left: 10px;
+            }
+
+            .HOME {
+                color: rgb(189, 153, 243);
+                position: absolute;
+                top: 209px;
+                left: 139px;
+                font-size: 20px;
+                font-family: 'Oswald', sans-serif;
+            }
+
+            .ITEM1 {
+                color: rgb(247, 247, 247);
+                position: absolute;
+                top: 281px;
+                left: 139px;
+                font-size: 20px;
+                font-family: 'Oswald', sans-serif;
+            }
+
+            .ITEM2{
+                color: rgb(255, 255, 255);
+                position: absolute;
+                top: 353px;
+                left: 139px;
+                font-size: 20px;
+                font-family: 'Oswald', sans-serif;
+            }
+
+            .ITEM3{
+                color: rgb(255, 255, 255);
+                position: absolute;
+                top: 425px;
+                left: 139px;
+                font-size: 20px;
+                font-family: 'Oswald', sans-serif;
+            }
+
+            .ITEM4{
+                color: rgb(255, 255, 255);
+                position: absolute;
+                top: 497px;
+                left: 139px;
+                font-size: 20px;
+                font-family: 'Oswald', sans-serif;
+            }
+
+            .ITEM5{
+                color: rgb(255, 255, 255);
+                position: absolute;
+                top: 569px;
+                left: 139px;
+                font-size: 20px;
+                font-family: 'Oswald', sans-serif;
+            }
+
+            .SUPPORT{
+                color: rgb(255, 255, 255);
+                position: absolute;
+                top: 988px;
+                left: 131px;
+                font-size: 20px;
+                font-family: 'Oswald', sans-serif;
+            }
+
+            .CONTACT{
+                color: rgb(255, 255, 255);
+                position: absolute;
+                top: 1060px;
+                left: 129px;
+                font-size: 20px;
+                font-family: 'Oswald', sans-serif;
+
+                }
+
+            .ACME{
+                position: absolute;
+                top: 1166px;
+                left: 131px;
+            }   
+
+        .Social1{
+            float: left;
+            margin-left: 1248px;
+        }
+
+        .Social2{
+            float: left;
+        }
+         
+        .SIMPLE{
+            float: left;
+            margin-left: 208px;
+            margin-top: 182px;
+            color: white;            
+            font-size: 56px;
+            font-weight: bolder;
+            line-height: 104px;
+            word-wrap: break-word;
+            font-family: 'Oswald', sans-serif;
+        }
+ 
+        .TEMPLATE{
+            position: absolute;
+            top: 360px;
+            left: 605px;
+            color: #A276FF;
+            font-size: 120px;
+            font-family: 'Oswald', sans-serif;
+            font-weight: 700;
+            line-height: 117px;
+            word-wrap: break-word
+        }
+
+
+
+        .A_clean_simple{
+            position: absolute;
+            top: 520px;
+            left: 605px;
+            width: 1083px;
+            height: 83px;
+            color: white;
+            font-size: 29px;
+            font-family: 'Roboto', sans-serif;
+            font-weight: 400;
+        }
+
+
+
+        .Button{
+            position: absolute;
+            top: 655px;
+            left: 605px;
+            border: 3px solid white;
+            width: 286px;
+            height: 82px;
+            border-radius: 20px;
+            text-align: center;
+            font-size: 20px;
+            text-decoration: none;
+            font-family: 'Oswald', sans-serif;
+            font-weight: 700;
+            line-height: 80px;
+            word-wrap: break-word
+
+
+
+        }
+
+
+
+        .Thumbs{
+            position: absolute;
+            top: 830px;
+            left: 591px;
+        }
+
+
+       
+        .NEWS{
+            position: absolute;
+            top: 1090px;
+            left: 600px;
+        }
+
+        .Downward_triangle{
+            position: absolute;
+            top: 1100px;
+            left: 700px;
+        }
+
+        
+        .Lorem{
+            position: absolute;
+            top: 1150px;
+            left: 600px;
+            color: white;
+            font-size: 16px;
+            font-family: 'Roboto', sans-serif;
+            font-weight: 500;
+            line-height: 26.51px;
+            word-wrap: break-word
+        }
+
+
+ 
+.list{
+    position: absolute;
+    top: 200px;
+    left: 496px;
+    width: 1555px;
+    height: 1099px;
+    border: 3px solid red;
+    background-color:white;
+    border-radius : 41px 41px 0px 0px;
+    color: white;
+    font-size: 29px;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 400;
+
+}
+
+
+h1{
+    color: #111111;
+    font-size: 56px;
+    font-family: 'Oswald', sans-serif;
+    font-weight: 700;
+    text-align: left;
+    line-height: 92.79px;
+    word-wrap: break-word
+}
+
+ 
+.text{
+    color: #111111;
+    border: 4px solid red;
+    width: 800px;
+    height: 925px;
+    font-size: 32px;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 400;        
+    line-height: 42.5px;
+    word-wrap: break-word
+
+
+
+}
+
+.poto{
+    position: absolute;
+    top: 145px;
+    left: 900px;
+}
